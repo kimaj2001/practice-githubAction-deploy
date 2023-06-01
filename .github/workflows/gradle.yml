@@ -17,7 +17,7 @@ permissions:
   contents: read
 
 env:
-  S3_BUCKET_NAME: githubaction-deploy-bucket
+  S3_BUCKET_NAME: be-17-kimaj2001
 
 jobs:
   build:
